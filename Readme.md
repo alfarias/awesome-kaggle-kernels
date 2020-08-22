@@ -4,12 +4,11 @@
 
 ![image](https://storage.googleapis.com/kaggle-avatars/images/2080166-kg.png)
 
-## General
+## General Machine Learning
 
 - **Data Science Tutorial for Beginners:** [https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 - **Machine Learning Tutorial for Beginners:** [https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - **Statistical Learning Tutorial for Beginners:** [https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners](https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners)
-- **Deep Learning Tutorial for Beginners:** [https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 - **A Data Science Framework: To Achieve 99% Accuracy:** [https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
 - **A Comprehensive ML Workflow with Python:** [https://www.kaggle.com/mjbahmani/a-comprehensive-ml-workflow-with-python](https://www.kaggle.com/mjbahmani/a-comprehensive-ml-workflow-with-python)
 - **Guided path of Learning ML-DS:** [https://www.kaggle.com/ambarish/guided-path-of-learning-ml-ds](https://www.kaggle.com/ambarish/guided-path-of-learning-ml-ds)
@@ -26,6 +25,11 @@
 - **XGBoost in H2O!:** [https://www.kaggle.com/brandenkmurray/xgboost-in-h2o](https://www.kaggle.com/brandenkmurray/xgboost-in-h2o)
 - **GMEAN of low correlation (LB: 0.952x):** [https://www.kaggle.com/paulorzp/gmean-of-low-correlation-lb-0-952x](https://www.kaggle.com/paulorzp/gmean-of-low-correlation-lb-0-952x)
 - **Resampling strategies for imbalanced datasets:** [https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
+
+## Deeep Learning
+
+- **Deep Learning Tutorial for Beginners:** [https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
+- **Introduction to Pytorch (a very gentle start):** [https://www.kaggle.com/frtgnn/introduction-to-pytorch-a-very-gentle-start](https://www.kaggle.com/frtgnn/introduction-to-pytorch-a-very-gentle-start)
 
 ## Visualization
 
