@@ -1,6 +1,6 @@
 # Kaggle Kernels Compilation
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/github/license/alfarias/awesome-kaggle-kernels) ![Activity](https://img.shields.io/github/commit-activity/m/alfarias/awesome-kaggle-kernels)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License](https://img.shields.io/github/license/alfarias/awesome-kaggle-kernels)](https://github.com/alfarias/awesome-kaggle-kernels/blob/master/LICENSE) [![Activity](https://img.shields.io/github/commit-activity/m/alfarias/awesome-kaggle-kernels)](https://github.com/alfarias/awesome-kaggle-kernels/commits/master)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)\
 *Image Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Kaggle_logo.png
