@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/github/license/alfarias/awesome-kaggle-kernels) ![Activity](https://img.shields.io/github/commit-activity/m/alfarias/awesome-kaggle-kernels)
 
-![image](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)\
 *Image Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Kaggle_logo.png
 )*
 
@@ -60,6 +60,7 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 ## Deeep Learning
 
 - [**Deep Learning Tutorial for Beginners**](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
+- [**In-Depth Guide to Convolutional Neural Networks**](https://www.kaggle.com/abhinand05/in-depth-guide-to-convolutional-neural-networks)
 - [**Introduction to Pytorch (a very gentle start)**](https://www.kaggle.com/frtgnn/introduction-to-pytorch-a-very-gentle-start)
 
 ## Data Visualization
