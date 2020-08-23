@@ -3,23 +3,35 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/github/license/alfarias/awesome-kaggle-kernels) ![Activity](https://img.shields.io/github/commit-activity/m/alfarias/awesome-kaggle-kernels)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
-*Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Kaggle_logo.png)*
+*Image Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Kaggle_logo.png
+)*
 
-Disclaimer: This compilation is still a work in progress.\
+Disclaimer: This compilation is still a work in progress.
 
-- [**Working**] Converting urls to text hyperlinks.
-- [**Working**] Clean Kernel Titles.
-- [ ] Better Topic Division.
-- [ ] Write Introduction.
+- [✔] Converting urls to text hyperlinks.
+- [✔] Clean Kernel Titles.
+- [✔] Write Introduction.
+- [X] Better Topic Division.
 
 ## Table of Contents
 
 1. [Introduction](#Introduction)
 2. [General Machine Learning](#General-Machine-Learning)
+3. [Data Visualization](#Data-Visualization)
+4. [Forecasting](#Data-Visualization)
+5. [Natural Language Processing](#Natural-Language-Processing)
+6. [Computer Vision](#Computer-Vision)
+7. [Recommendation Systems](#Recommendation-Systems)
+8. [Clustering](#Clustering)
+9. [Reinforcement Learning](#Reinforcement-Learning)
+10. [Competitions (Kernel Examples)](#Competitions-(Kernel-Examples))
 
 ## Introduction
 
-*TO DO*.
+In this compilation you will find curated Kaggle Kernels to aid on your Data Science Learning Journey. The list is weekly reviewed.\
+I wiil search on Kaggle for interesting and didactic Kernel, if is good will be added here.\
+If any author doesn't want his work on this compilation, open an issue and I will remove the requested Kernel.\
+Most Kernels are written in Python, but if any of them is written in R, the tag `[R]` will appear in the title end.
 
 ## General Machine Learning
 
@@ -30,15 +42,18 @@ Disclaimer: This compilation is still a work in progress.\
 - [**A Comprehensive ML Workflow with Python**](https://www.kaggle.com/mjbahmani/a-comprehensive-ml-workflow-with-python)
 - [**Guided path of Learning ML-DS**](https://www.kaggle.com/ambarish/guided-path-of-learning-ml-ds)
 - [**Exploration of data step by step**](https://www.kaggle.com/artgor/exploration-of-data-step-by-step)
-- [**Python walk-through for Titanic data analysis**](https://www.kaggle.com/headsortails/pytanic)
+- [**Python walkthrough for Titanic data analysis**](https://www.kaggle.com/headsortails/pytanic)
 - [**How to not overfit?**](https://www.kaggle.com/artgor/how-to-not-overfit)
 - [**OOP approach to FE and models**](https://www.kaggle.com/artgor/oop-approach-to-fe-and-models)
+- [**Predictive Power Score vs Correlation**](https://www.kaggle.com/frtgnn/predictive-power-score-vs-correlation)
 - [**Pseudo Labeling - QDA**](https://www.kaggle.com/cdeotte/pseudo-labeling-qda-0-969)
+- [**Bayesian Learning Basics | Tutorial**](https://www.kaggle.com/upadorprofzs/bayesian-learning-basics-tutorial)
 - [**Data Analysis using SQL:**](https://www.kaggle.com/dimarudov/data-analysis-using-sql)
 - [**SQLalchemy and ML with sklearn demo**](https://www.kaggle.com/aawiegel/sqlalchemy-and-ml-with-sklearn-demo)
 - [**Pyspark ML tutorial for beginners:**](https://www.kaggle.com/fatmakursun/pyspark-ml-tutorial-for-beginners)
 - [**Getting started with H2O (AutoML)**](https://www.kaggle.com/sudalairajkumar/getting-started-with-h2o)
 - [**XGBoost in H2O! (AutoML)**](https://www.kaggle.com/brandenkmurray/xgboost-in-h2o)
+- [**CatBoost: A Deeper Dive**](https://www.kaggle.com/abhinand05/catboost-a-deeper-dive)
 - [**GMEAN of low correlation**](https://www.kaggle.com/paulorzp/gmean-of-low-correlation-lb-0-952x)
 - [**Resampling strategies for imbalanced datasets**](https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets)
 
@@ -65,13 +80,15 @@ Disclaimer: This compilation is still a work in progress.\
 - [**Beginners guide to Highchart Visual in R**](https://www.kaggle.com/nulldata/beginners-guide-to-highchart-visual-in-r)
 - [**Interactive Viz - UFC with Altair**](https://www.kaggle.com/subinium/interactive-viz-1-ufc-with-altair)
 - [**EDA using Pyviz**](https://www.kaggle.com/deepanshusemwal/eda-using-pyviz)
-- [**📊Interactive Exploratory Data Analysis**](https://www.kaggle.com/dcstang/interactive-exploratory-data-analysis-eda)
+- [**Interactive Exploratory Data Analysis**](https://www.kaggle.com/dcstang/interactive-exploratory-data-analysis-eda)
 
 ## Forecasting
 
 - [**Time Series Prediction Tutorial with EDA**](https://www.kaggle.com/kanncaa1/time-series-prediction-tutorial-with-eda)
+- [**Back to (predict) the future - Interactive M5 EDA [R]**](https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda)
+- [**EDA + Prophet + MLP Neural Network Forecasting**](https://www.kaggle.com/arindamgot/eda-prophet-mlp-neural-network-forecasting)
 
-## NLP
+## Natural Language Processing
 
 - [**Data Science with DL & NLP: Advanced Techniques**](https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques)
 - [**A mind map for of NLP**](https://www.kaggle.com/rftexas/ml-cheatsheet-a-mind-map-for-nlp)
@@ -87,7 +104,7 @@ Disclaimer: This compilation is still a work in progress.\
 - [**Movie Review Sentiment Analysis EDA and models**](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models)
 - [**Loading BERT using pytorch (with tokenizer & apex)**](https://www.kaggle.com/christofhenkel/loading-bert-using-pytorch-with-tokenizer-apex/notebook)
 - [**Text modelling in Pytorch v2**](https://www.kaggle.com/artgor/text-modelling-in-pytorch-v2)
-- [**CNN in keras on folds:**](https://www.kaggle.com/artgor/cnn-in-keras-on-folds)
+- [**CNN in keras on folds**](https://www.kaggle.com/artgor/cnn-in-keras-on-folds)
 - [**BERT for Humans: Tutorial+Baseline (Version 2)**](https://www.kaggle.com/abhinand05/bert-for-humans-tutorial-baseline-version-2)
 - [**Clickbait News - BERT PyTorch**](https://www.kaggle.com/kashnitsky/clickbait-news-bert-pytorch)
 - [**Bert-base TF2.0 (now Huggingface transformer)**](https://www.kaggle.com/akensert/bert-base-tf2-0-now-huggingface-transformer)
@@ -101,15 +118,15 @@ Disclaimer: This compilation is still a work in progress.\
 - [**A complete ML pipeline (Fast.ai)**](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai)
 - [**Introduction to CNN Keras**](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 - [**Indian way to learn CNN**](https://www.kaggle.com/shahules/indian-way-to-learn-cnn)
-- **Beginners guide to MNIST with fast.ai:** [https://www.kaggle.com/christianwallenwein/beginners-guide-to-mnist-with-fast-ai](https://www.kaggle.com/christianwallenwein/beginners-guide-to-mnist-with-fast-ai)
-- **Practical Deep Learning Using PyTorch:** [https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
-- **Classification in catalyst with utility scripts:** [https://www.kaggle.com/artgor/classification-in-catalyst-with-utility-scripts](https://www.kaggle.com/artgor/classification-in-catalyst-with-utility-scripts)
-- **pytorch utils for images:** [https://www.kaggle.com/artgor/pytorch-utils-for-images](https://www.kaggle.com/artgor/pytorch-utils-for-images)
-- **RSNA Intracranial Hemorrhage Basic EDA + Data Visualization:** [https://www.kaggle.com/marcovasquez/basic-eda-data-visualization/notebook](https://www.kaggle.com/marcovasquez/basic-eda-data-visualization/notebook)
-- **Severstal: Simple 2-step pipeline:** [https://www.kaggle.com/xhlulu/severstal-simple-2-step-pipeline](https://www.kaggle.com/xhlulu/severstal-simple-2-step-pipeline)
-- **GAN Introduction:** [https://www.kaggle.com/jesucristo/gan-introduction](https://www.kaggle.com/jesucristo/gan-introduction)
-- **Kuzushiji Recognition Complete Guide:** [https://www.kaggle.com/jesucristo/kuzushiji-recognition-complete-guide](https://www.kaggle.com/jesucristo/kuzushiji-recognition-complete-guide)
-- **Train Simple XRay CNN:** [https://www.kaggle.com/kmader/train-simple-xray-cnn](https://www.kaggle.com/kmader/train-simple-xray-cnn)
+- [**Beginners guide to MNIST with fast.ai**](https://www.kaggle.com/christianwallenwein/beginners-guide-to-mnist-with-fast-ai)
+- [**Practical Deep Learning Using PyTorch:**](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
+- [**Classification in catalyst with utility scripts**](https://www.kaggle.com/artgor/classification-in-catalyst-with-utility-scripts)
+- [**Pytorch utils for images**](https://www.kaggle.com/artgor/pytorch-utils-for-images)
+- [**RSNA Intracranial Hemorrhage Basic EDA + Data Visualization**](https://www.kaggle.com/marcovasquez/basic-eda-data-visualization/notebook)
+- [**Severstal: Simple 2-step pipeline**](https://www.kaggle.com/xhlulu/severstal-simple-2-step-pipeline)
+- [**GAN Introduction**](https://www.kaggle.com/jesucristo/gan-introduction)
+- [**Kuzushiji Recognition Complete Guide**](https://www.kaggle.com/jesucristo/kuzushiji-recognition-complete-guide)
+- [**Train Simple XRay CNN**](https://www.kaggle.com/kmader/train-simple-xray-cnn)
 
 ## Recommendation Systems
 
@@ -125,21 +142,21 @@ Disclaimer: This compilation is still a work in progress.\
 
 ## Reinforcement Learning
 
-- **Reinforcement Learning for Meal Planning in Python:** [https://www.kaggle.com/osbornep/reinforcement-learning-for-meal-planning-in-python](https://www.kaggle.com/osbornep/reinforcement-learning-for-meal-planning-in-python)
-- **Learn by example Reinforcement Learning with Gym:** [https://www.kaggle.com/charel/learn-by-example-reinforcement-learning-with-gym](https://www.kaggle.com/charel/learn-by-example-reinforcement-learning-with-gym)
-- **Crash Course in Reinforcement Learning:**  [https://www.kaggle.com/blairyoung/crash-course-in-reinforcement-learning](https://www.kaggle.com/blairyoung/crash-course-in-reinforcement-learning)
-- **Deep Reinforcement Learning on Stock Data:** [https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data)
-- **RL from Scratch Part 1: Defining the Environment:** [https://www.kaggle.com/osbornep/rl-from-scratch-part-1-defining-the-environment](https://www.kaggle.com/osbornep/rl-from-scratch-part-1-defining-the-environment)
-- **RL from Scratch Part 2: Understanding RL Parameters:** [https://www.kaggle.com/osbornep/rl-from-scratch-part-2-understanding-rl-paramters](https://www.kaggle.com/osbornep/rl-from-scratch-part-2-understanding-rl-paramters)
+- [**Reinforcement Learning for Meal Planning in Python**](https://www.kaggle.com/osbornep/reinforcement-learning-for-meal-planning-in-python)
+- [**Learn by example Reinforcement Learning with Gym**](https://www.kaggle.com/charel/learn-by-example-reinforcement-learning-with-gym)
+- [**Crash Course in Reinforcement Learning**](https://www.kaggle.com/blairyoung/crash-course-in-reinforcement-learning)
+- [**Deep Reinforcement Learning on Stock Data**](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data)
+- [**RL from Scratch Part 1: Defining the Environment**](https://www.kaggle.com/osbornep/rl-from-scratch-part-1-defining-the-environment)
+- [**RL from Scratch Part 2: Understanding RL Parameters**](https://www.kaggle.com/osbornep/rl-from-scratch-part-2-understanding-rl-paramters)
 
 ## Competitions (Kernel Examples)
 
-- **IEEE-CIS Fraud Detection:** [https://www.kaggle.com/artgor/eda-and-models](https://www.kaggle.com/artgor/eda-and-models)
-- **Elo Merchant Category Recommendation:** [https://www.kaggle.com/artgor/elo-eda-and-models](https://www.kaggle.com/artgor/elo-eda-and-models)
-- **Santander Customer Transaction Prediction:** [https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models](https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models)
-- **Porto Seguro’s Safe Driver Prediction [R]:** [https://www.kaggle.com/headsortails/steering-wheel-of-fortune-porto-seguro-eda](https://www.kaggle.com/headsortails/steering-wheel-of-fortune-porto-seguro-eda)
-- **Starter ⚡ ASHRAE Great Energy Predictor:** [https://www.kaggle.com/jesucristo/starter-great-energy-predictor](https://www.kaggle.com/jesucristo/starter-great-energy-predictor)
-- **Vowpal Wabbit starter Microsoft Malware Prediction:** [https://www.kaggle.com/kashnitsky/training-while-reading-vowpal-wabbit-starter](https://www.kaggle.com/kashnitsky/training-while-reading-vowpal-wabbit-starter)
-- **PUBG Data Exploration + RF (+ Funny GIFs):** [https://www.kaggle.com/carlolepelaars/pubg-data-exploration-rf-funny-gifs](https://www.kaggle.com/carlolepelaars/pubg-data-exploration-rf-funny-gifs)
-- **NFL Punt Analytics:** https://www.kaggle.com/jpmiller/nfl-punt-analytics
-- **NFL Injury Analysis:**  [https://www.kaggle.com/aleksandradeis/nfl-injury-analysis](https://www.kaggle.com/aleksandradeis/nfl-injury-analysis)
+- [**NFL Injury Analysis**](https://www.kaggle.com/aleksandradeis/nfl-injury-analysis)
+- [**NFL Punt Analytics**](https://www.kaggle.com/jpmiller/nfl-punt-analytics)
+- [**IEEE-CIS Fraud Detection**](https://www.kaggle.com/artgor/eda-and-models)
+- [**Elo Merchant Category Recommendation**](https://www.kaggle.com/artgor/elo-eda-and-models)
+- [**Santander Customer Transaction Prediction**](https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models)
+- [**Porto Seguro’s Safe Driver Prediction [R]**](https://www.kaggle.com/headsortails/steering-wheel-of-fortune-porto-seguro-eda)
+- [**Starter: ASHRAE Great Energy Predictor**](https://www.kaggle.com/jesucristo/starter-great-energy-predictor)
+- [**Vowpal Wabbit starter Microsoft Malware Prediction**](https://www.kaggle.com/kashnitsky/training-while-reading-vowpal-wabbit-starter)
+- [**PUBG Data Exploration + Random Forest**](https://www.kaggle.com/carlolepelaars/pubg-data-exploration-rf-funny-gifs)
