@@ -82,6 +82,7 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 - [**Interactive Viz - UFC with Altair**](https://www.kaggle.com/subinium/interactive-viz-1-ufc-with-altair)
 - [**EDA using Pyviz**](https://www.kaggle.com/deepanshusemwal/eda-using-pyviz)
 - [**Interactive Exploratory Data Analysis**](https://www.kaggle.com/dcstang/interactive-exploratory-data-analysis-eda)
+- [**Advanced Pyspark for Exploratory Data Analysis**](https://www.kaggle.com/tientd95/advanced-pyspark-for-exploratory-data-analysis)
 
 ## Forecasting
 
@@ -109,8 +110,8 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 - [**BERT for Humans: Tutorial+Baseline (Version 2)**](https://www.kaggle.com/abhinand05/bert-for-humans-tutorial-baseline-version-2)
 - [**Clickbait News - BERT PyTorch**](https://www.kaggle.com/kashnitsky/clickbait-news-bert-pytorch)
 - [**Bert-base TF2.0 (now Huggingface transformer)**](https://www.kaggle.com/akensert/bert-base-tf2-0-now-huggingface-transformer)
-- [**DistilBert + Catalyst, amazon product reviews:**](https://www.kaggle.com/kashnitsky/distillbert-catalyst-amazon-product-reviews)
-- [**Vowpal Wabbit tutorial: blazingly fast learnin:**](https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning)
+- [**DistilBert + Catalyst, amazon product reviews**](https://www.kaggle.com/kashnitsky/distillbert-catalyst-amazon-product-reviews)
+- [**Vowpal Wabbit tutorial: blazingly fast learnin**](https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning)
 
 ## Computer Vision
 
@@ -120,7 +121,7 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 - [**Introduction to CNN Keras**](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 - [**Indian way to learn CNN**](https://www.kaggle.com/shahules/indian-way-to-learn-cnn)
 - [**Beginners guide to MNIST with fast.ai**](https://www.kaggle.com/christianwallenwein/beginners-guide-to-mnist-with-fast-ai)
-- [**Practical Deep Learning Using PyTorch:**](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
+- [**Practical Deep Learning Using PyTorch**](https://www.kaggle.com/ankitjha/practical-deep-learning-using-pytorch)
 - [**Classification in catalyst with utility scripts**](https://www.kaggle.com/artgor/classification-in-catalyst-with-utility-scripts)
 - [**Pytorch utils for images**](https://www.kaggle.com/artgor/pytorch-utils-for-images)
 - [**RSNA Intracranial Hemorrhage Basic EDA + Data Visualization**](https://www.kaggle.com/marcovasquez/basic-eda-data-visualization/notebook)
