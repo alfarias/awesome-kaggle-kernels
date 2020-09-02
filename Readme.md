@@ -102,6 +102,7 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 - [**How To Preprocessing for GloVe Part 2: Usage**](https://www.kaggle.com/christofhenkel/how-to-preprocessing-for-glove-part2-usage)
 - [**Gensim Word2Vec Tutorial**](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
 - [**Hitchhiker's Guide to NLP in spaCy**](https://www.kaggle.com/nirant/hitchhiker-s-guide-to-nlp-in-spacy/)
+- [**Tutorial on topic modelling-LDA&NLP**](https://www.kaggle.com/zikazika/tutorial-on-topic-modelling-lda-nlp?scriptVersionId=9699432)
 - [**Treemap House of Horror: Spooky EDA/LDA/Features [R]**](https://www.kaggle.com/headsortails/treemap-house-of-horror-spooky-eda-lda-features)
 - [**Movie Review Sentiment Analysis EDA and models**](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models)
 - [**Loading BERT using pytorch (with tokenizer & apex)**](https://www.kaggle.com/christofhenkel/loading-bert-using-pytorch-with-tokenizer-apex/notebook)
