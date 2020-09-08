@@ -89,6 +89,7 @@ Most Kernels are written in Python, but if any of them is written in R, the tag 
 - [**Time Series Prediction Tutorial with EDA**](https://www.kaggle.com/kanncaa1/time-series-prediction-tutorial-with-eda)
 - [**Back to (predict) the future - Interactive M5 EDA [R]**](https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda)
 - [**EDA + Prophet + MLP Neural Network Forecasting**](https://www.kaggle.com/arindamgot/eda-prophet-mlp-neural-network-forecasting)
+- [**Predicting stock movement**](https://www.kaggle.com/zikazika/predicting-stock-movement/)
 
 ## Natural Language Processing
 
